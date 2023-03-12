@@ -1,2 +1,1 @@
-# Application
-Github and merging
+developer b story updated
