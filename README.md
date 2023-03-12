@@ -1,1 +1,1 @@
-developer b story updated
+developer b story updated.
