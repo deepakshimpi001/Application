@@ -1,1 +1,3 @@
-developer b story updated.
+developer b story updated and
+updated developer a succesfully
+
